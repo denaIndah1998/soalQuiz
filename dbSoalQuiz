@@ -1,0 +1,49 @@
+{
+  "quiz": [
+    { 
+    "1. Apa Warna Bendera Indonesi?",
+    "Merah - Putih", 
+    "Biru - Putih", 
+    "Merah - Biru", 
+    "Abu - Abu"
+    },
+    { "2. Siapa Nama Presiden Pertama Indonesia?",
+    "Ir. Soekarno", 
+    "Jokowi", 
+    "SBY", 
+    "BJ. Habibi"
+    },
+    { "3. Siapa Penemu Bola Lampu?",
+    "Bowo", 
+    "Thomas Alfa Edison", 
+    "Badrun", 
+    "Ayuk"
+    },
+    { "4. Tahun Berapa Indonesia Merdeka?",
+    "1999", 
+    "2019", 
+    "1945", 
+    "2020"
+    },
+    { "5. Lampu-lampu Apa yang Ada di Pnggir Jalan?",
+    "Lampu merah", 
+    "Lampu Hijau", 
+    "Lampu Kuning", 
+    "Lampu Merah Kuni Hijau"
+    },
+    { "6. Siapa Nama Tim Ricis Selain Vazo, aryesh, jae, ogun, ella, riri?",
+    "Wildan", 
+    "Boim", 
+    "Rio", 
+    "Benar Semua"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
